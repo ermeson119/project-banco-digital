@@ -13,6 +13,7 @@ Aplicação web que simula um banco digital simples: login, consulta de saldo, e
 
 1. Clone o repositório e entre na pasta do projeto:
    ```bash
+   git clone <https://github.com/ermeson119/project-banco-digital.git>
    cd project-banco-digital
    ```
 2. Instale as dependências:
